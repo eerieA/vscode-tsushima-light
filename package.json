@@ -1,0 +1,26 @@
+{
+  "name": "tsushima-theme",
+  "displayName": "tsushima-theme",
+  "description": "A contrast light theme based on color palette from Ghost of Tsushima game",
+  "galleryBanner": {
+    "color": "#292929",
+    "theme": "light"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ghost of Tsushima light charcoal",
+        "uiTheme": "vs",
+        "path": "./themes/Ghost of Tsushima light-color-theme.json"
+      }
+    ]
+  },
+  "publisher": "ninjaqwert-2239-indie"
+}
