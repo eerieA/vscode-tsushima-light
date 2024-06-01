@@ -1,5 +1,6 @@
 {
   "name": "tsushima-theme",
+  "icon": "resources/icon.png",
   "displayName": "tsushima-theme",
   "description": "A contrast light theme based on color palette from Ghost of Tsushima game",
   "galleryBanner": {
@@ -22,5 +23,9 @@
       }
     ]
   },
-  "publisher": "ninjaqwert-2239-indie"
+  "publisher": "ninjaqwert-2239-indie",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eerieA/vscode-tsushima-light.git"
+  }
 }
